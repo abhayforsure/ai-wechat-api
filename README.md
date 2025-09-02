@@ -99,6 +99,12 @@
 
 # 📚  运行与部署
 
+本项目分为API端和Admin端
+
+**[AI-Wechat-Api](https://github.com/lofteryang/ai-wechat-api)**
+
+**[AI-Wechat-Admini](https://github.com/lofteryang/ai-wechat-admin)**
+
 ## 1.API端
 
 #### 1.环境要求
@@ -152,10 +158,6 @@
 - 推荐使用 [PM2](vscode-file://vscode-app/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-browser/workbench/workbench.html) 进行进程管理
 - Nginx 反向代理配置见 [nginx.conf](vscode-file://vscode-app/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-browser/workbench/workbench.html)
 - 日志文件位于 `logs/` 目录
-
-
-
-
 
 
 
