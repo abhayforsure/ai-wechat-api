@@ -1,0 +1,59 @@
+{
+  "name": "ai-wechat-api",
+  "description": "application created by thinkjs",
+  "version": "1.0.0",
+  "author": "Mac Studio <2206749767@qq.com>",
+  "scripts": {
+    "start": "node development.js",
+    "test": "THINK_UNIT_TEST=1 nyc ava test/ && nyc report --reporter=html",
+    "lint": "eslint src/",
+    "lint-fix": "eslint --fix src/"
+  },
+  "dependencies": {
+    "@koa/router": "^13.1.1",
+    "cron": "^4.3.1",
+    "events": "^3.3.0",
+    "jsonwebtoken": "^9.0.2",
+    "kcors": "^2.2.2",
+    "md5": "^2.3.0",
+    "node-schedule": "^2.1.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "think-cache": "^1.0.0",
+    "think-cache-file": "^1.0.8",
+    "think-logger3": "^1.0.0",
+    "think-model": "^1.5.4",
+    "think-model-mysql": "^1.0.0",
+    "think-session": "^1.0.0",
+    "think-session-file": "^1.0.5",
+    "think-view": "^1.0.0",
+    "think-view-nunjucks": "^1.0.1",
+    "thinkjs": "^3.2.15",
+    "ws": "^8.18.3"
+  },
+  "devDependencies": {
+    "ava": "^0.18.0",
+    "eslint": "^4.2.0",
+    "eslint-config-think": "^1.0.0",
+    "nyc": "^7.0.0",
+    "think-watcher": "^3.0.0"
+  },
+  "repository": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "readmeFilename": "README.md",
+  "thinkjs": {
+    "metadata": {
+      "name": "ai-wechat-api",
+      "description": "application created by thinkjs",
+      "author": "Mac Studio <2206749767@qq.com>",
+      "babel": false
+    },
+    "projectName": "ai-wechat-api",
+    "template": "/usr/local/lib/node_modules/think-cli/default_template",
+    "clone": false,
+    "isMultiModule": false
+  }
+}

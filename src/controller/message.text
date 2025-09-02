@@ -1,0 +1,227 @@
+收到消息: {
+  msg_id: 455179403,
+  from_user_name: { str: 'ai374949369' },
+  to_user_name: { str: 'wxid_hebkbciz5spt22' },
+  msg_type: 1,
+  content: { str: '主动发送' },
+  status: 3,
+  img_status: 1,
+  img_buf: { len: 0 },
+  create_time: 1751707503,
+  msg_source: '<msgsource>\n' +
+    '\t<pua>1</pua>\n' +
+    '\t<eggIncluded>1</eggIncluded>\n' +
+    '\t<signature>N0_V1_zyvKfcou|v1_rsXPWszR</signature>\n' +
+    '\t<tmp_node>\n' +
+    '\t\t<publisher-id></publisher-id>\n' +
+    '\t</tmp_node>\n' +
+    '</msgsource>\n',
+  new_msg_id: 993082329029909800
+}
+
+
+
+{
+  msg_id: 641344639,
+  from_user_name: { str: 'wxid_hebkbciz5spt22' },
+  to_user_name: { str: 'ai374949369' },
+  msg_type: 1,
+  content: { str: '文字内容' },
+  status: 3,
+  img_status: 1,
+  img_buf: { len: 0 },
+  create_time: 1751688591,
+  msg_source: '<msgsource>\n' +
+    '\t<pua>1</pua>\n' +
+    '\t<eggIncluded>1</eggIncluded>\n' +
+    '\t<signature>N0_V1_XDurkwKV|v1_9g4m/VF1</signature>\n' +
+    '\t<tmp_node>\n' +
+    '\t\t<publisher-id></publisher-id>\n' +
+    '\t</tmp_node>\n' +
+    '</msgsource>\n',
+  push_content: '杨 : 文字内容',
+  new_msg_id: 3678253154489006600
+}
+
+
+# 语音
+收到消息: {
+  msg_id: 1203762387,
+  from_user_name: { str: 'wxid_hebkbciz5spt22' },
+  to_user_name: { str: 'ai374949369' },
+  msg_type: 34,
+  content: {
+    str: '<msg><voicemsg endflag="1" cancelflag="0" forwardflag="0" voiceformat="4" voicelength="2811" length="4415" bufid="0" aeskey="4ad738e49147b88be472e13145273d58" voiceurl="3052020100044b30490201000204122c42ac02032f55950204cf41f7df02046868a595042435623930643030352d353966322d343065312d613039612d34376135303030343234393802040514000f0201000400" voicemd5="" clientmsgid="413662336331613063616264646361005312090705257af0b2c9b01100" fromusername="wxid_hebkbciz5spt22" /></msg>'
+  },
+  status: 3,
+  img_status: 1,
+  img_buf: {
+    len: 4415,
+    buffer: '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'
+  },
+  create_time: 1751688597,
+  msg_source: '<msgsource>\n' +
+    '\t<signature>N0_V1_3d4SW/OX|v1_rzGUpcMM</signature>\n' +
+    '\t<tmp_node>\n' +
+    '\t\t<publisher-id></publisher-id>\n' +
+    '\t</tmp_node>\n' +
+    '</msgsource>\n',
+  push_content: '杨 : [语音]',
+  new_msg_id: 8092566104805375000
+}
+
+# 图片
+
+收到消息: {
+  msg_id: 1483876273,
+  from_user_name: { str: 'wxid_hebkbciz5spt22' },
+  to_user_name: { str: 'ai374949369' },
+  msg_type: 3,
+  content: {
+    str: '<?xml version="1.0"?>\n' +
+      '<msg>\n' +
+      '\t<img aeskey="14c299fcf284054089c0f955880ed537" encryver="1" cdnthumbaeskey="14c299fcf284054089c0f955880ed537" cdnthumburl="3057020100044b304902010002040448eb5402032f55950204a641f7df0204686874e3042465303463386239352d656135392d343661312d383334612d333533376134353930333862020405190a020201000405004c537500" cdnthumblength="2756" cdnthumbheight="403" cdnthumbwidth="160" cdnmidheight="0" cdnmidwidth="0" cdnhdheight="0" cdnhdwidth="0" cdnmidimgurl="3057020100044b304902010002040448eb5402032f55950204a641f7df0204686874e3042465303463386239352d656135392d343661312d383334612d333533376134353930333862020405190a020201000405004c537500" length="459261" md5="c0089689be881a0b609b8d31fadbbc40" hevc_mid_size="65291" originsourcemd5="c07c94a4792622fbb423993caf70a22e">\n' +
+      '\t\t<secHashInfoBase64>eyJwaGFzaCI6IjUwMDAwMDAwMDAwMDIwMDAiLCJwZHFIYXNoIjoiNTVkYTAwZmZmZWM4ZmU5OGE4\n' +
+      'OTlhOWJkNTcwMGU5YzQxNGVmMDA1ZjAwN2YwYTdmNTUyNjJhN2ZjNDI2NTU1MiJ9\n' +
+      '</secHashInfoBase64>\n' +
+      '\t\t<live>\n' +
+      '\t\t\t<duration>0</duration>\n' +
+      '\t\t\t<size>0</size>\n' +
+      '\t\t\t<md5 />\n' +
+      '\t\t\t<fileid />\n' +
+      '\t\t\t<hdsize>0</hdsize>\n' +
+      '\t\t\t<hdmd5 />\n' +
+      '\t\t\t<hdfileid />\n' +
+      '\t\t\t<stillimagetimems>0</stillimagetimems>\n' +
+      '\t\t</live>\n' +
+      '\t</img>\n' +
+      '\t<platform_signature />\n' +
+      '\t<imgdatahash />\n' +
+      '\t<ImgSourceInfo>\n' +
+      '\t\t<ImgSourceUrl />\n' +
+      '\t\t<BizType>0</BizType>\n' +
+      '\t</ImgSourceInfo>\n' +
+      '</msg>\n'
+  },
+  status: 3,
+  img_status: 2,
+  img_buf: {
+    len: 2756,
+    buffer: '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'
+  },
+  create_time: 1751688604,
+  msg_source: '<msgsource>\n' +
+    '\t<sec_msg_node>\n' +
+    '\t\t<uuid>f913719643d92acbf8e27635ba9dd154_</uuid>\n' +
+    '\t\t<risk-file-flag />\n' +
+    '\t\t<risk-file-md5-list />\n' +
+    '\t</sec_msg_node>\n' +
+    '\t<signature>N0_V1_nfatcMT6|v1_HVZDlxfP</signature>\n' +
+    '\t<tmp_node>\n' +
+    '\t\t<publisher-id></publisher-id>\n' +
+    '\t</tmp_node>\n' +
+    '</msgsource>\n',
+  push_content: '杨 : [图片]',
+  new_msg_id: 6117587016103724000
+}
+
+
+
+
+ SQL: INSERT INTO `ai_friends_task` (`friend_id`,`cron_expression`,`start_date`,`end_date`,`is_active`,`task_name`) VALUES (1744,'0 0 20 * * 1-4','','',1,'晚上8点开始学雅思啦'), Time: 56ms
+Error: ER_TRUNCATED_WRONG_VALUE: Incorrect date value: '' for column 'start_date' at row 1
+    at Query.Sequence._packetToError (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:188:23)
+    --------------------
+    at Protocol._enqueue (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/mysql/lib/Connection.js:198:25)
+    at /Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/think-helper/index.js:83:10
+    at new Promise (<anonymous>)
+    at /Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/think-helper/index.js:82:12
+    at ThinkMysql.[think-mysql-query] (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/think-mysql/index.js:169:12)
+    at /Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/think-mysql/index.js:247:25
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  code: 'ER_TRUNCATED_WRONG_VALUE',
+  errno: 1292,
+  sqlMessage: "Incorrect date value: '' for column 'start_date' at row 1",
+  sqlState: '22007',
+  index: 0,
+  sql: "INSERT INTO `ai_friends_task` (`friend_id`,`cron_expression`,`start_date`,`end_date`,`is_active`,`task_name`) VALUES (1744,'0 0 20 * * 1-4','','',1,'晚上8点开始学雅思啦')"
+}
+处理用户 smjiloveyou 消息失败: TypeError: Cannot read property 'logger' of undefined
+    at module.exports.getAIReplyWithMultiple‌Wheel (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/src/service/ai.js:131:16)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at MessageProcessor.processUserMessages (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/src/controller/websocket.js:87:28)
+    at Timeout._onTimeout (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/src/controller/websocket.js:53:7)
+
+
+
+
+     SQL: INSERT INTO `ai_messages` (`from_user`,`to_user`,`content`,`raw_data`,`msg_id`,`status`,`is_ai`,`type`,`msg_type`,`create_time`) VALUES ('smjiloveyou','ai374949369','那从明天开始吧？','{\"msg_id\":1578020077,\"from_user_name\":{\"str\":\"smjiloveyou\"},\"to_user_name\":{\"str\":\"ai374949369\"},\"msg_type\":1,\"content\":{\"str\":\"那从明天开始吧？\"},\"status\":3,\"img_status\":1,\"img_buf\":{\"len\":0},\"create_time\":1751717961,\"msg_source\":\"<msgsource>\\n\\t<pua>1</pua>\\n\\t<eggIncluded>1</eggIncluded>\\n\\t<signature>N0_V1_7zGdeRs5|v1_88KsMFAi</signature>\\n\\t<tmp_node>\\n\\t\\t<publisher-id></publisher-id>\\n\\t</tmp_node>\\n</msgsource>\\n\",\"push_content\":\"童瑞 : 那从明天开始吧？\",\"new_msg_id\":2286718553428272400}',1578020077,'queued',0,0,1,1751717961), Time: 39ms
+Error: ER_TRUNCATED_WRONG_VALUE: Incorrect date value: '' for column 'start_date' at row 1
+    at Query.Sequence._packetToError (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:188:23)
+    --------------------
+    at Protocol._enqueue (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/mysql/lib/Connection.js:198:25)
+    at /Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/think-helper/index.js:83:10
+    at new Promise (<anonymous>)
+    at /Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/think-helper/index.js:82:12
+    at ThinkMysql.[think-mysql-query] (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/think-mysql/index.js:169:12)
+    at /Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/think-mysql/index.js:247:25
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) {
+  code: 'ER_TRUNCATED_WRONG_VALUE',
+  errno: 1292,
+  sqlMessage: "Incorrect date value: '' for column 'start_date' at row 1",
+  sqlState: '22007',
+  index: 0,
+  sql: "INSERT INTO `ai_friends_task` (`friend_id`,`cron_expression`,`start_date`,`end_date`,`is_active`,`task_name`) VALUES (1744,'0 0 10 * * 0,6','','',1,'周末早上10点开始学雅思')"
+
+
+
+
+
+   - SQL: INSERT INTO `ai_friends_task` (`friend_id`,`cron_expression`,`start_date`,`end_date`,`is_active`,`task_name`) VALUES (1744,'0 0 10 * * 0,6','','',1,'周末早上10点开始学雅思'), Time: 34ms
+处理用户 smjiloveyou 消息失败: TypeError: Cannot read property 'logger' of undefined
+    at module.exports.getAIReplyWithMultiple‌Wheel (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/src/service/ai.js:131:16)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at MessageProcessor.processUserMessages (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/src/controller/websocket.js:87:28)
+    at Timeout._onTimeout (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/src/controller/websocket.js:53:7)
+[2025-07-05T20:19:23.168] [78924] [INFO] - SQL: UPDATE `ai_messages` SET `status`='failed' WHERE ( `msg_id` = 655932313 ), Time: 39ms
+处理 smjiloveyou 的 1 条消息: 那从明天开始吧？
+combinedContent==》 那从明天开始吧？
+[2025-07-05T20:19:23.224] [78924] [INFO] - SQL: SELECT * 
+
+
+SQL: SELECT * FROM `ai_friends_task` WHERE ( `is_active` = 1 ), Time: 26ms
+[2025-07-05T20:46:31.258] [88118] [ERROR] - 任务 该继续学习啦，别摸鱼！ 调度失败: Error: Too few fields
+    at CronTime._parse (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/cron/lib/cron.js:418:11)
+    at new CronTime (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/cron/lib/cron.js:46:9)
+    at new CronJob (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/node_modules/cron/lib/cron.js:565:19)
+    at module.exports.scheduleTask (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/src/service/taskScheduler.js:118:19)
+    at module.exports.refreshTasks (/Users/Victor/Desktop/ai-wechat-api/ai-wechat-api/src/service/taskScheduler.js:85:16)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2025-07-05T20:46:31.259] [88118] [DEBUG] - 任务刷新完成: 当前活跃任务 2 个
