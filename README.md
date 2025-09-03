@@ -1,12 +1,51 @@
 # 🤖 AI-WeChat-Mater-智能微信助手平台
 
+# 写在前面
 
+## 老婆和教练关系越来越好 :thinking:
 
-#  📝 项目说明
+天天和教练聊天，早上吃什么了？晚上吃什么了？中午吃什么了？![|80x94, 75%](https://cdn.nodeimage.com/i/qio3z6KfvZOjOPMDIYULH0xeD6wCmVqQ.webp)
+今天运动了吗？今天走了多少步？什么时候来锻炼？
 
-> 开源智能微信助手平台，将AI能力无缝融入微信生态，实现自动化消息处理与智能交互
+作为家庭成员的一份子，这个事情我**坚决不能忍。**
 
-1、大模型接口 来自：[原能引擎，大模型中转站不掺水-真稳定](https://api.evopower.net) \- 稳定可靠，实测gemini模型表现优异 **[加入TG交流群](https://t.me/evopower_ai)**
+但是如何让如此**贴心的教练**知难而退呢？![|45x50, 75%](https://cdn.nodeimage.com/i/10ngoIYsA8w7MGHkmGNP9hQNlS4OUl0d.webp)
+
+作为程序员的我，发挥了我的聪明才智！
+
+# 这不正是 AI 最擅长得事情了吗？？？？
+
+我只要能
+1、让 AI 能接入微信
+2、让 AI 能主动发消息
+3、让 AI 能总结内容，发挥情绪价值！还不能被看出来！
+4、同时我还有其他老婆也要关注！毕竟时间管理大师的时间是很宝贵的！
+![image|158x182, 50%](https://cdn.nodeimage.com/i/V3idbsTzpUvRn1amYhxvUBw7X8kkNBD8.webp)
+
+因此 经过 2 天的熬夜奋战！
+
+## [AI-WeChat-Mater-多微信 AI 智能"老婆"助手，麻烦点个 Star⭐️⭐️](https://github.com/lofteryang/ai-wechat-api)
+
+### 本项目将实现以下功能：
+
+- 支持多微信账号同时在线与管理
+- **多个老婆多套提示词分开管理！**
+- 统一的授权与权限控制系统
+- 账号状态实时监控与告警
+- 自定义提示词与上下文记忆功能
+- 多轮对话与场景化交互
+- 定时消息发送与事件提醒
+- 智能消息过滤与优先级处理
+- 自动化好友管理与群组操作
+- 消息记录与交互数据分析
+- 用户行为模式识别
+- 性能指标与使用统计
+
+# 📝 项目说明
+
+> 开源智能微信助手平台，将 AI 能力无缝融入微信生态，实现自动化消息处理与智能交互
+
+1、大模型接口 来自：[原能引擎，大模型中转站不掺水-真稳定](https://api.evopower.net) \- 稳定可靠，实测 gemini 模型表现优异 **[加入 TG 交流群](https://t.me/evopower_ai)**
 
 2、核心依赖服务 [WechatPadPro](https://github.com/WeChatPadPro/WeChatPadPro) 请先安装此服务
 
@@ -18,10 +57,10 @@
 - 统一的授权与权限控制系统
 - 账号状态实时监控与告警
 
-### 🧠 智能AI对话引擎
+### 🧠 智能 AI 对话引擎
 
-- 多家大模型API，支持灵活切换
-- **特别推荐：[原能引擎 - 大模型中转站](https://api.evopower.net/)** - 稳定可靠，实测gemini模型表现优异
+- 多家大模型 API，支持灵活切换
+- **特别推荐：[原能引擎 - 大模型中转站](https://api.evopower.net/)** - 稳定可靠，实测 gemini 模型表现优异
 - 自定义提示词与上下文记忆功能
 - 多轮对话与场景化交互
 
@@ -37,8 +76,6 @@
 - 用户行为模式识别
 - 性能指标与使用统计
 
-
-
 ## 🚀 应用场景
 
 ### 🎓 智能学习伴侣
@@ -46,12 +83,12 @@
 - **线上督促学习老师** - 定期提醒学习计划，检查进度
 - **智能答疑助手** - 随时解答学习问题，提供参考资料
 
-### 💪 AI健身教练
+### 💪 AI 健身教练
 
-**线上AI健身教练（配合多模态AI以及相关）**
+**线上 AI 健身教练（配合多模态 AI 以及相关）**
 
 - **个性化训练计划** - 根据用户情况制定健身方案
-- **动作指导与纠正** - 通过多模态AI分析训练动作
+- **动作指导与纠正** - 通过多模态 AI 分析训练动作
 - **进度跟踪与激励** - 记录训练数据，提供正向反馈
 
 ### 📈 智能营销平台
@@ -69,8 +106,6 @@
 - **信息收集与整理** - 自动归类重要消息与文件
 - **智能回复与代答** - 根据场景自动生成回复内容
 
-
-
 #### 已实现功能
 
 - 多微信账号管理与授权
@@ -80,32 +115,26 @@
 - 消息记录、日志与统计分析
 - 好友/群管理、备注、标签等
 
-
-
 #### 待实现功能
 
-* 数据库优化
+- 数据库优化
 
-* 图片处理
-* 语音、视频处理
-* 专属模型训练，自动加好友，多ai角色多模型
-* event定期总结
-* 群聊接入
-* wechatpadpro更多功能接入
+- 图片处理
+- 语音、视频处理
+- 专属模型训练，自动加好友，多 ai 角色多模型
+- event 定期总结
+- 群聊接入
+- wechatpadpro 更多功能接入
 
+# 📚 运行与部署
 
-
-
-
-# 📚  运行与部署
-
-本项目分为API端和Admin端
+本项目分为 API 端和 Admin 端
 
 **[AI-Wechat-Api](https://github.com/lofteryang/ai-wechat-api)**
 
 **[AI-Wechat-Admini](https://github.com/lofteryang/ai-wechat-admin)**
 
-## 1.API端
+## 1.API 端
 
 #### 1.环境要求
 
@@ -114,15 +143,15 @@
 - [ThinkJS](vscode-file://vscode-app/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-browser/workbench/workbench.html)
 - 依赖包见 package.json
 
-安装：```npm install ```
+安装：`npm install `
 
-运行：```npm run start```
+运行：`npm run start`
 
 #### 2.必要配置
 
-``/src/config.js``  ：hostUrl：微信模拟器的地址
+`/src/config.js` ：hostUrl：微信模拟器的地址
 
-```/adapter/adapter.js``` mysql：数据库信息
+`/adapter/adapter.js` mysql：数据库信息
 
 数据库配置 ai_system
 
@@ -132,12 +161,12 @@
 
 | 配置项          | 说明             | 示例值                                         |
 | :-------------- | :--------------- | :--------------------------------------------- |
-| `aiHost`        | AI服务地址       | `https://api.evopower.net/v1/chat/completions` |
-| `aiApiKey`      | API密钥          | `sk-xxxxxxxxxxxxxxxx`                          |
+| `aiHost`        | AI 服务地址      | `https://api.evopower.net/v1/chat/completions` |
+| `aiApiKey`      | API 密钥         | `sk-xxxxxxxxxxxxxxxx`                          |
 | `aiChatModel`   | 对话模型         | `gemini-2.5-pro`                               |
 | `hisMsgDay`     | 历史消息保留天数 | `7`                                            |
-| `to_noti_wxid`  | 管理员通知ID     | `wxid_admin`                                   |
-| `from_noti_key` | 消息发送方ID     | `wxid_sender`                                  |
+| `to_noti_wxid`  | 管理员通知 ID    | `wxid_admin`                                   |
+| `from_noti_key` | 消息发送方 ID    | `wxid_sender`                                  |
 
 ### 微信配置
 
@@ -149,9 +178,7 @@
 - `POST /account/getAIReply` 获取 AI 回复
 - `GET /friends/list` 获取好友列表
 - `POST /wechat/sendTextMessage` 发送微信消息
-- ...参考/controller下文件
-
-
+- ...参考/controller 下文件
 
 #### 4.部署与运维
 
@@ -159,9 +186,7 @@
 - Nginx 反向代理配置见 [nginx.conf](vscode-file://vscode-app/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/code/electron-browser/workbench/workbench.html)
 - 日志文件位于 `logs/` 目录
 
-
-
-## 2. Admin管理端
+## 2. Admin 管理端
 
 AI WeChat Admin 是一个基于 Vue 2 和 Element UI 的微信管理后台，支持多微信账号管理、好友管理、AI 日志、系统参数配置等功能。适用于企业或个人对微信账号的集中管理和数据分析。
 
@@ -255,17 +280,12 @@ export default api
 4. 推送分支 (`git push origin feature/xxx`)
 5. 新建 Pull Request
 
-
-
 # 重要说明
 
 1、本项目仅用于研究学习
 
 2、根据[《生成式人工智能服务管理暂行办法》](http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm)的要求，请勿对中国地区公众提供一切未经备案的生成式人工智能服务。
 
-
-
 # 👥 项目作者
 
 <table> <tr> <td align="center"> <a href="https://github.com/lofteryang"> <img src="https://avatars.githubusercontent.com/u/11828110?s=100&v=4" width="100px;" alt="lofteryang" style="border-radius: 50%;"/> <br /> <sub><b>lofteryang</b></sub> </a> </td> <td align="center"> <a href="https://github.com/xiaofute"> <img src="https://avatars.githubusercontent.com/u/28945380?v=4" width="100px;" alt="xiaofute" style="border-radius: 50%;"/> <br /> <sub><b>xiaofute</b></sub> </a> </td> </tr> </table>
-
